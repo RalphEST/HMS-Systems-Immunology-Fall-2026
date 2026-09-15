@@ -1,5 +1,0 @@
-Hi there! This is a sample text file
-This is line 1
-This is line 2
-This is line 3
-End of file! See ya later!
