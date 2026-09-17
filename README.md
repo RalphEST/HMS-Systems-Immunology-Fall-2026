@@ -36,7 +36,7 @@ GitHub is an awesome version control tool to share and maintain code online and 
 
 ### Installing Git
 
-There are many ways to install Git on your machine. But before installing it, check that you do not have it by running the command `git` in your Terminal. If you get coherent output that starts with something like `usage: git [-v | --version] [-h | --help]...`, or really anything other than `command not found`, then congratulations! You already have Git on your computer!
+There are many ways to install Git on your machine. But before installing it, check that you do not have it installedd by running the command `git` in your Terminal. If you get output that starts with something like `usage: git [-v | --version] [-h | --help]...`, or really anything other than `command not found`, then congratulations! You already have Git on your computer!
 
 If you do not have Git installed, follow the instructions [here](https://git-scm.com/install/). You will notice there are many ways. For macOS, Two common ways are:
 1. Using Homebrew, a package manager for macOS, which you can download [from here](https://brew.sh/). Once you have Homebrew install, you can simply run `brew install git` in your Terminal.
@@ -44,8 +44,18 @@ If you do not have Git installed, follow the instructions [here](https://git-scm
 
 ### Using GitHub
 
-Git is a powerful version-control and code-sharing tool. Projects on GitHub (just like this one) are called **repositories** (aka repos). You can copy (aka **clone** in Git-speak) a repo to your computer, make local changes and commit them to the original repo online, pull new versions of the repo, and so on. However, in this course, all you need to do is that first step: to copy the workshop sessions' contents onto your computer. 
+Git is a powerful version-control and code-sharing tool. Projects on GitHub (just like this one) are called **repositories** (aka repos). You can copy (aka **clone** in Git-speak) a repo to your computer, make local changes and commit them to the original repo online, pull new versions of the repo, and so on. However, in this course, all you need to do is that first step: to clone (copy) the workshop sessions' contents onto your computer. To do so, run the following command in your terminal:
+```
+git clone https://github.com/RalphEST/HMS-Systems-Immunology-Fall-2026.git
+```
+This will automatically create a new folder called `HMS-Systems-Immunology-Fall-2026` which is directly connected to Git and GitHub. (You can find the cloning link for any repo by clicking the bright green `<> Code` button at the top of the page and copying the HTML URL to your clipboard.)
 
+Because the workshops have newly been re-designed for Python, there is a very high likelyhood that the files on GitHub will change after you have cloned the repo. If you want to pull the updated files and simply run the commands:
+```
+git reset --hard
+git pull
+```
+This will bring all the files up to date **while discarding the local changes you've made**. If you want to keep your edits, you can copy and past the files outside the `HMS-Systems-Immunology-Fall-2026` folder. 
 
 
 
