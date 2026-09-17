@@ -27,3 +27,26 @@ We recommend you (at least try) to familiarize yourself with JupyterLab before s
 ### Learning Python
 
 The first session of this bootcamp will cover Python 101, however, I strongly recommend you check out existing resources and tutorials before coming to the first class. There are at least two highly-rated free online courses available on [Coursera](https://www.coursera.org/learn/python-crash-course) and [MIT OpenCourseWare](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) (the latter being the course that taught me Python a very long time ago — highly recommended!). If you're really tight on time, I have found at least three good video tutorials on YouTube covering Python basics in [80 minutes](https://www.youtube.com/watch?v=VchuKL44s6E), [30 minutes](https://www.youtube.com/watch?v=WEm3EUdicDg), and a whopping [10 minutes](https://www.youtube.com/watch?v=fWjsdhR3z3c), and I am sure there are many more. Help yourself!
+
+
+## Navigating GitHub
+
+GitHub is an awesome version control tool to share and maintain code online and collaborate with others on coding projects — all this while also keeping track of all previously uploaded versions and managing the complex situations that arise when multiple people are working on different parts of the same project. All this functionality makes GitHub very powerful and complex, but in this course, we will only need it to share files. While GitHub is the online platform, Git is the version-control software that is locally installed on your machine and which interacts with GitHub.
+
+
+### Installing Git
+
+There are many ways to install Git on your machine. But before installing it, check that you do not have it by running the command `git` in your Terminal. If you get coherent output that starts with something like `usage: git [-v | --version] [-h | --help]...`, or really anything other than `command not found`, then congratulations! You already have Git on your computer!
+
+If you do not have Git installed, follow the instructions [here](https://git-scm.com/install/). You will notice there are many ways. For macOS, Two common ways are:
+1. Using Homebrew, a package manager for macOS, which you can download [from here](https://brew.sh/). Once you have Homebrew install, you can simply run `brew install git` in your Terminal.
+2. Apple's core developer toolbox Xcode Command Line Tools, which can easily be installed on macOS with the command `xcode-select --install`, contains Git.
+
+### Using GitHub
+
+Git is a powerful version-control and code-sharing tool. Projects on GitHub (just like this one) are called **repositories** (aka repos). You can copy (aka **clone** in Git-speak) a repo to your computer, make local changes and commit them to the original repo online, pull new versions of the repo, and so on. However, in this course, all you need to do is that first step: to copy the workshop sessions' contents onto your computer. 
+
+
+
+
+
