@@ -1,8 +1,26 @@
-# HMS-Systems-Immunology-Fall-2026
+# HMS Systems Immunology (Fall 2026)
 
 Welcome to Systems Immunology (aka IMMUN 306QC)! 
 
 This Github page contains the workshops that we will be going over throughout the course. The workshops are organized into separate folders. Please note that not all workshops have been uploaded yet — we like to build suspense!
+
+## Schedule
+
+| Date | Lecture<br>9-10:30am<br>Countway Library 104 | Workshop<br>1-3pm<br>TMEC 250 | Deadlines |
+| --- | --- | --- | --- |
+| Sep. 16, 18, 23, 25* | | Python Bootcamp <br>*(Ralph Estanboulieh)* | | 
+| Oct. 9 | **Principles of Systems Immunology** <br>*(all instructors)*  | Python Bootcamp* <br>*(Ralph Estanboulieh)*|  | 
+| Oct. 16 | **Transcriptomics** <br>*(Martin Hemberg)* | **RNA sequencing analysis** <br>*(Ralph Estanboulieh, Martin Hemberg)* |  | 
+| Oct. 23 | **Tissue and spatial analysis**<br>*(Jeff Moffitt)* | **Single-cell RNA sequencing analysis** <br>*(Ralph Estanboulieh, Martin Hemberg)*|   |
+| Oct. 30 | **All that AI will do for Immunology** <br>*(Marinka Zitnik)* | **Spatial analysis** <br>*(Martin Hemberg)*|   |
+| Nov. 6 | **Proteomics and immunopeptidomics** <br>*(Jenn Abelin, Nir Hacohen)*| **AI agents for RNA-seq analysis** <br>*(Nir Hacohen)*|   Pre-proposal due Nov. 9 |
+| Nov. 13 | \[9am] **T and B cell receptor repertoires** <br>*(Dan Lingwood, Christophe Benoist)* |  | Proposal due Nov. 18|
+| | \[1pm] **Perturbations** <br>*(Nir Hacohen, Dave Root)* | |  |
+| Nov. 20 | **Applications of systems immunology** <br>*(all instructors)* | Project feedback (as needed) <br>*(Ralph Estanboulieh)*|  |
+| Dec. 4 | **Epigenomics**<br>*(Deb Sen)*  | Project feedback (as needed)  <br>*(Ralph Estanboulieh)*|  |
+| Dec. 11 | **Student presentations** <br>*(all instructors)*| | |
+
+*: the Python bootcamp might take more than 4-5 sessions.
 
 ## Before we start
 
