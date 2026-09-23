@@ -9,13 +9,11 @@ This Github page contains the workshops that we will be going over throughout th
 | Date | Lecture<br>9-10:30am<br>Countway Library 104 | Workshop<br>1-3pm<br>TMEC 250 | Deadlines |
 | --- | --- | --- | --- |
 | Sep. 16, 18, 23, 25* | | Python Bootcamp <br>*(Ralph Estanboulieh)* | | 
-| Oct. 9 | **Principles of Systems Immunology** <br>*(all instructors)*  | Python Bootcamp* <br>*(Ralph Estanboulieh)*|  | 
-| Oct. 16 | **Transcriptomics** <br>*(Martin Hemberg)* | **RNA sequencing analysis** <br>*(Ralph Estanboulieh, Martin Hemberg)* |  | 
-| Oct. 23 | **Tissue and spatial analysis**<br>*(Jeff Moffitt)* | **Single-cell RNA sequencing analysis** <br>*(Ralph Estanboulieh, Martin Hemberg)*|   |
-| Oct. 30 | **All that AI will do for Immunology** <br>*(Marinka Zitnik)* | **Spatial analysis** <br>*(Martin Hemberg)*|   |
+| Oct. 9 | **Transcriptomics** <br>*(Martin Hemberg)*  | **RNA squencing analysis** <br>*(Ralph Estanboulieh, Martin Hemberg)*|  | 
+| Oct. 16 | **Tissue and spatial analysis** <br>*(Jeff Moffitt)* | **Single-cell RNA sequencing analysis** <br>*(Ralph Estanboulieh, Martin Hemberg)* |  | 
+| Oct. 30 | **Spatial analysis <br>(workshop)** <br>*(Martin Hemberg)* | **All that AI will do for Immunology <br>(lecture)** <br>*(Marinka Zitnik)*  | |
 | Nov. 6 | **Proteomics and immunopeptidomics** <br>*(Jenn Abelin, Nir Hacohen)*| **AI agents for RNA-seq analysis** <br>*(Nir Hacohen)*|   Pre-proposal due Nov. 9 |
-| Nov. 13 | \[9am] **T and B cell receptor repertoires** <br>*(Dan Lingwood, Christophe Benoist)* |  | Proposal due Nov. 18|
-| | \[1pm] **Perturbations** <br>*(Nir Hacohen, Dave Root)* | |  |
+| Nov. 13 | **T and B cell receptor repertoires** <br>*(Dan Lingwood, Christophe Benoist)* |  **Perturbations <br>(lecture)** <br>*(Nir Hacohen, Dave Root)* | Proposal due Nov. 18|
 | Nov. 20 | **Applications of systems immunology** <br>*(all instructors)* | Project feedback (as needed) <br>*(Ralph Estanboulieh)*|  |
 | Dec. 4 | **Epigenomics**<br>*(Deb Sen)*  | Project feedback (as needed)  <br>*(Ralph Estanboulieh)*|  |
 | Dec. 11 | **Student presentations** <br>*(all instructors)*| | |
